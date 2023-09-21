@@ -16,11 +16,11 @@ const Footer = () => {
       <Link href="tel:+254111750386" > Call or message : +254111750386</Link>
 
     </div>
-    <h3 className='font-semibold lg:flex justify-around align-center'>All rights Reserved, Copyright 2023</h3>
+    <h3 className='font-semibold lg:flex justify-around mb-3 align-center'>All rights Reserved, Copyright 2023</h3>
 
     </div>
     </div>
-  )
+  ) 
 }
 
 export default Footer

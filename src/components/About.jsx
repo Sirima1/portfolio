@@ -17,7 +17,7 @@ const About = () => {
     <input type="tel" placeholder="+254700002211"  className="bg-transparent border-2  md:mx-2 mx-1 rounded-md p-2"/>
     <label htmlFor="info"></label>
     <textarea name="info" id="info" cols="30" rows="10" placeholder="message" className="p-2  md:mx-2 mx-1 rounded-lg text-slate-900 bg-transparent border-2"></textarea>
-    <button type="submit" className="lg:mx-[250px] mx-[200px] md:mx-[230px] bg-slate-600 rounded-md px-5 lg:py-2">Send</button>
+    <button type="submit" className="lg:mx-[200px] mx-[200px] md:mx-[230px] bg-slate-600 rounded-md px-5 lg:py-2">Send</button>
     </form>
     </div>
      

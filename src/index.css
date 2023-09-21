@@ -4,7 +4,7 @@
 @tailwind utilities;
 
 body{
-    background-image: linear-gradient(to left,rgb(52, 52, 121), rgba(248,252,250,0.2) 45%);
+    background-image: linear-gradient(300deg,rgb(30, 58, 138), rgba(206, 209, 207, 0.992) 35%);
     color: antiquewhite;
   
 }
